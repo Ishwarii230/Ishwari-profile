@@ -1,36 +1,20 @@
 # Hi 👋, I'm Ishwari  
-### Software Developer | Problem Solver | Lifelong Learner  
+### A domain-independent problem-solver with both SW and ML skills  
 
-I'm passionate about creating clean, efficient, and impactful software.  
-I love exploring how code can solve real-world problems through logic, data, and design.
-
----
-
-### 💡 About Me
-- 🧠 Skilled in **Python**, **SQL**, **Machine Learning**, and **Data Analysis**  
-- 💻 Experienced with **software development** and building data-driven applications  
-- 🤝 Open to collaborating on interesting **AI / Data Science** projects  
-- 🎯 Always learning and improving every single day  
+- 💻 I have worked on software and data science projects using Python, ML, and SQL.  
+- 🤝 I’m looking to collaborate on interesting projects involving AI or data analytics.  
+- 📫 How to reach me: **yourname@gmail.com**  
 
 ---
 
-### 📬 Get in Touch
-- **Email:** yourname@gmail.com  
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- **Portfolio / GitHub:** [github.com/ishwaribidwe](https://github.com/ishwaribidwe)
+### 📊 GitHub Stats
+![Ishwari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishwaribidwe&show_icons=true&theme=tokyonight)
+
+### 🌟 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishwaribidwe&layout=compact&theme=tokyonight)
 
 ---
 
-### 📊 GitHub Insights
-![Ishwari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishwaribidwe&show_icons=true&hide_border=true&theme=transparent)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishwaribidwe&layout=compact&hide_border=true&theme=transparent)
-
----
-
-### 🧭 Philosophy
-> “Code is not just about logic — it’s about clarity, creativity, and curiosity.”
-
----
-
-*(This profile is a window into my journey — one commit at a time.)*
+### 🧠 Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-link)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=github)](https://github.com/ishwaribidwe)
