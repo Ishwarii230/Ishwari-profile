@@ -3,7 +3,7 @@
 
 - 💻 I have worked on software and data science projects using Python, ML, and SQL.  
 - 🤝 I’m looking to collaborate on interesting projects involving AI or data analytics.  
-- 📫 How to reach me: **yourname@gmail.com**  
+- 📫 How to reach me: **bidweishwari230@gmail.com**  
 
 ---
 
