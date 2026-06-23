@@ -1,7 +1,7 @@
 # Hi 👋, I'm Ishwari  
 ### A domain-independent problem-solver with both SW and ML skills  
 
-- 💻 I have worked on software and data science projects using Python, ML, and SQL.  
+- 💻 I have worked on software and data science projects using Python, Java, ML, AI, PowerBI and SQL.  
 - 🤝 I’m looking to collaborate on interesting projects involving AI or data analytics.  
 - 📫 How to reach me: **bidweishwari230@gmail.com**  
 
